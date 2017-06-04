@@ -6,7 +6,7 @@ document.getElementById("submit").onclick = function () {
   var story = document.getElementById("story").value;
   sessionStorage.setItem('story', story);
 
-  location.href = "http://localhost:8000/stats.html";
+  location.href = "https://adamgyee12.github.io/Momentor/stats.html";
 
     //location.href = "http://localhost:8000/giotto.html";
     //https://adamgyee12.github.io/Portfolio/giotto.html
